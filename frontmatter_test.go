@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/adrg/frontmatter"
+	"github.com/common-fate/frontmatter"
 	"gopkg.in/yaml.v2"
 )
 

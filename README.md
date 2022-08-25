@@ -1,3 +1,7 @@
+# frontmatter
+
+Forked from https://github.com/adrg/frontmatter.
+
 <h1 align="center">
   <div>
     <img src="https://raw.githubusercontent.com/adrg/adrg.github.io/master/assets/projects/frontmatter/logo.png" width="120px" alt="frontmatter logo"/>
@@ -141,15 +145,6 @@ func main() {
 ```
 
 Full documentation can be found at: https://pkg.go.dev/github.com/adrg/frontmatter.
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/adrg/frontmatter.svg)](https://starchart.cc/adrg/frontmatter)
-
-## Contributing
-
-Contributions in the form of pull requests, issues or just general feedback,
-are always welcome. See [CONTRIBUTING.MD](CONTRIBUTING.md).
 
 ## License
 

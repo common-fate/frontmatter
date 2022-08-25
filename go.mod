@@ -1,4 +1,4 @@
-module github.com/adrg/frontmatter
+module github.com/common-fate/frontmatter
 
 go 1.14
 
